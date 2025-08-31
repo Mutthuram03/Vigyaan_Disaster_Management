@@ -1,4 +1,4 @@
-🌐 VIGYAAN: Vulnerability Indicator for Geospatial Yield, Alerts And Networks
+<img width="1994" height="893" alt="image" src="https://github.com/user-attachments/assets/47ea595d-c791-4213-8749-6db489e6efea" />🌐 VIGYAAN: Vulnerability Indicator for Geospatial Yield, Alerts And Networks
 
 VIGYAAN is a disaster prediction and alert system that leverages geospatial and historical data to detect and predict natural disasters such as floods, earthquakes, and cyclones. It provides real-time alerts, interactive visualization, and actionable insights to help communities and authorities stay prepared.
 
@@ -39,14 +39,14 @@ cd Vigyaan_Diaster_Management
 Install dependencies:
 
 npm install
-# or
+ or
 yarn install
 
 
 Run the development server:
 
 npm run dev
-# or
+ or
 yarn dev
 
 
@@ -55,7 +55,8 @@ Visit http://localhost:3000
 
 📸 Screenshots
 
-(Add screenshots of your dashboard, alert pages, or any unique UI here)
+
+
 
 📚 Learn More
 
@@ -70,5 +71,5 @@ Tailwind CSS Docs
 
 Mutthuram S (Team Lead / Developer)
 Nishanth Kannan
-Karthikeyan
+Karthikeyan S
 
