@@ -1,41 +1,74 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🌐 VIGYAAN: Vulnerability Indicator for Geospatial Yield, Alerts And Networks
 
-## Getting Started
+VIGYAAN is a disaster prediction and alert system that leverages geospatial and historical data to detect and predict natural disasters such as floods, earthquakes, and cyclones. It provides real-time alerts, interactive visualization, and actionable insights to help communities and authorities stay prepared.
 
-First, run the development server:
+🚀 Features
 
-```bash
+Multi-disaster prediction: Floods, cyclones, earthquakes
+
+Real-time alert system: Instant notifications for vulnerable regions
+
+Interactive dashboard: Visualize geospatial hazard data intuitively
+
+AI-driven analysis: Learn from historical trends and satellite inputs
+
+Language support: Tamil, Hindi, and English integration for accessibility
+
+Scalable architecture: Built with Next.js for performance and flexibility
+
+🛠️ Tech Stack
+
+Frontend: Next.js, React.js, Tailwind CSS
+
+Backend: Node.js / Express (or Next.js API routes)
+
+Database: MongoDB / PostgreSQL (specify what you’re using)
+
+Mapping: Leaflet.js / Mapbox (or whichever library you're using)
+
+Version Control: Git & GitHub
+
+⚡ Getting Started
+
+Clone the repository:
+
+git clone https://github.com/Mutthuram03/Vigyaan_Diaster_Management.git
+cd Vigyaan_Diaster_Management
+
+
+Install dependencies:
+
+npm install
+# or
+yarn install
+
+
+Run the development server:
+
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Visit http://localhost:3000
+ in your browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📸 Screenshots
 
-## Learn More
+(Add screenshots of your dashboard, alert pages, or any unique UI here)
 
-To learn more about Next.js, take a look at the following resources:
+📚 Learn More
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next.js Documentation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+React Documentation
 
-## Deploy on Vercel
+Tailwind CSS Docs
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Vigyaan_Diaster_Management
-🌐 VIGYAAN: Vulnerability Indicator for Geospatial Yield, Alerts And Networks VIGYAAN is a disaster prediction and alert system designed to analyze geospatial and historical data to detect and predict natural disasters like floods, earthquakes, and cyclones. 
->>>>>>> 48c98353311a2d7cac33351626a8e21d974e8a42
+🤝 Contributors
+
+Mutthuram S (Team Lead / Developer)
+Nishanth Kannan
+Karthikeyan
+
