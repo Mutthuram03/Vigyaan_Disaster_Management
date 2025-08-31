@@ -69,7 +69,7 @@ Tailwind CSS Docs
 
 🤝 Contributors
 
-Mutthuram S (Team Lead / Developer),
+Mutthuram S R (Team Lead / Developer),
 Nishanth Kannan,
 Karthikeyan S
 
